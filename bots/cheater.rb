@@ -1,7 +1,7 @@
 #
 # Cheater, always wins!
 # 
-# Created by Magnus Holm <judofyr@gmail.comv>
+# Created by Magnus Holm <judofyr@gmail.com>
 # 
 
 class RPS::Round
